@@ -1,0 +1,14 @@
+/*
+// Website with two modes of content:
+    Offline (using cache)
+    // Virtualization
+// Online (fetching from API)
+    // Pagination + Infinite Scroll
+    // 1. Server will fetch from API (only if its not already in cache)
+    // 2. Server will send to client
+    // 3. Client will cache
+*/
+
+
+// Implement a Player component and style it like a proffessional site
+// Saturday - implement virtualization 
